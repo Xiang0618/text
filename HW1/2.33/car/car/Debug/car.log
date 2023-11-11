@@ -1,0 +1,3 @@
+﻿  car.c
+c:\users\mix40\onedrive\桌面\hw1010\car\car\car\car.c(21): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  car.vcxproj -> C:\Users\mix40\OneDrive\桌面\HW1010\car\car\Debug\car.exe
